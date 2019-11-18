@@ -1,11 +1,7 @@
 # BrickBreaker
-Code Repository for Yining Shi's Guest Tutorial
-
-### Video Tutorials
-Watch the tutorial here! [https://youtu.be/5kEPixL8JoU](https://youtu.be/5kEPixL8JoU)
+Code Repository
 
 ### Play the game!
-* https://codingtrain.github.io/BrickBreaker
 
 ### Viewer Remixes of the Game
 * [Colorful Brick Breaker](https://yining1023.github.io/brickBreaker), [Code](https://github.com/yining1023/brickBreaker)
